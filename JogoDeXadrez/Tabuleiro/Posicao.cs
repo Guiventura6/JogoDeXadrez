@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace JogoDeXadrez.Tabuleiro
+namespace JogoDeXadrez.tabuleiro
 {
     class Posicao
     {
